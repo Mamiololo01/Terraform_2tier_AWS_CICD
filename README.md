@@ -25,10 +25,15 @@ Deploy the architecture using Terraform Cloud as a CI/CD tool to check the build
 Prerequisites:
 
 An AWS Admin Account with Access Key and Secret Access Key
+
 An AWS Cloud9 Environment
+
 A free Terraform Cloud Account
+
 A Github Account
+
 Familiarity with Linux and Git commands
+
 In your chose IDE (I am using Cloud9) Lets write the code that will launch our infrastructure.
 
 
@@ -74,14 +79,7 @@ Each security group is associated with the VPC (aws_vpc.Project-vpc.id) specifie
 Overall, this code is creating security groups that allow inbound traffic from the internet to specific ports, and outbound traffic to any IP address. This is useful for creating infrastructure that is accessible from the internet, such as web servers and load balancers, while still maintaining some level of security by limiting inbound traffic to specific ports.
 
 Create a shell script to bootstrap EC2 instances
-#!/bin/bash
-# Use this for your user data (script from top to bottom)
-# install httpd (Linux 2 version)
-yum update -y
-yum install -y httpd
-systemctl start httpd
-systemctl enable httpd
-echo "<h1>This is my Final Level Up In Tech Project. $(hostname -f)</h1>" > /var/www/html/index.html
+
 This is a shell script used as userdata to bootstrap the EC2 instances running on Amazon Linux 2. The userdata is a script that will be executed automatically by the instances when they first start up.
 
 The script updates the instance’s package index using the yum update command. It then installs the Apache web server using the yum install command.
@@ -160,6 +158,7 @@ Push code to GitHub
 In your GitHub account create a new repository and push all the above code to your new repository.
 
 Create Terraform Cloud Account
+
 Open a web browser and navigate to the Terraform Cloud website at https://app.terraform.io/signup/account.
 
 Click on the “Sign Up” button located at the top right corner of the website.
@@ -218,7 +217,6 @@ Check off “Sensitive”, then click add variable. This is a great feature of T
 
 
 Once the plan has been created it’s time to apply.
-
 
 
 Test our infrastructure
