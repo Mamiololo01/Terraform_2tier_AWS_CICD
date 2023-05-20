@@ -236,10 +236,14 @@ Once the plan has been created it’s time to apply.
 
 <img width="863" alt="Screenshot 2023-05-20 at 16 33 59" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/a9cc1fc5-d6e5-47b3-afc5-65d250c37663">
 
+<img width="854" alt="Screenshot 2023-05-20 at 16 36 37" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/1881b3d3-315e-4f1a-8840-60881d879060">
 
 Test our infrastructure
                                                               
 
+<img width="1032" alt="Screenshot 2023-05-20 at 16 37 21" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/38fdd60f-121a-464c-9bd6-738362e6f930">
+
+<img width="617" alt="Screenshot 2023-05-20 at 16 37 38" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/29363ac5-7ae1-4cac-aa83-bc7421398b6d">
 
                                                               
                                                           
