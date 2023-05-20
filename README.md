@@ -245,7 +245,10 @@ Test our infrastructure
 
 <img width="617" alt="Screenshot 2023-05-20 at 16 37 38" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/29363ac5-7ae1-4cac-aa83-bc7421398b6d">
 
-                                                              
+
+<img width="961" alt="Screenshot 2023-05-20 at 16 37 52" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/f8eb8228-31e6-4214-8022-391a479a91d9">
+
+<img width="951" alt="Screenshot 2023-05-20 at 16 38 27" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/4653f80f-b44d-4ba5-80a4-369b70c3d594">                                                          
                                                           
 
 Navigate to theEC2 console and select “Load Balancers”. Select your load balancer and copy the public DNS name.
