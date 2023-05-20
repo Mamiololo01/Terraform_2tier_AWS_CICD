@@ -191,6 +191,11 @@ You will now be taken to the Terraform Cloud workspace creation page. Click on t
 On the next page, you will need to choose a name for your workspace and select the version control system you will be using.
 
 
+<img width="875" alt="Screenshot 2023-05-20 at 15 53 10" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/24289d88-4912-473d-92e9-810750b7e552">
+
+<img width="1212" alt="Screenshot 2023-05-20 at 15 57 28" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/c990ecb9-b052-4826-a45e-da6cbaae1d32">
+
+
 
 After selecting the version control system, you will need to provide Terraform Cloud with access to your repository. You can choose to either connect to a public repository or a private repository.
 
