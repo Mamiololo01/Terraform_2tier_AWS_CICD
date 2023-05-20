@@ -271,5 +271,9 @@ use Terraform Cloud to destroy your resources. Go to the left panel in your Terr
   
 <img width="902" alt="Screenshot 2023-05-20 at 16 41 19" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/c735db74-0d88-4655-a715-1cb71338b627">
 
-
+<img width="913" alt="Screenshot 2023-05-20 at 16 46 15" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/54598018-fe79-4f07-a0c6-0d1fd1c57dd0">
+  
+<img width="940" alt="Screenshot 2023-05-20 at 16 46 43" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/47dc1986-1e13-4fef-ad17-946f649d954a">
+  
+<img width="1024" alt="Screenshot 2023-05-20 at 16 47 15" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/ad8e8643-048a-4ccc-8155-8d6ee6201cb5">
 
