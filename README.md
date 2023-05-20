@@ -225,6 +225,9 @@ Value: PASTE_YOUR_SECRET_ACCESS_KEY
 
 Check off “Sensitive”, then click add variable. This is a great feature of Terraform Cloud to protect your sensitive variables.
 
+<img width="1229" alt="Screenshot 2023-05-20 at 15 58 34" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/ad259ca2-8e48-48c0-84da-ee68441319ac">
+
+<img width="897" alt="Screenshot 2023-05-20 at 16 00 30" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/07f91039-b875-405b-b91a-6ffb482d328d">
 
 
 Once the plan has been created it’s time to apply.
