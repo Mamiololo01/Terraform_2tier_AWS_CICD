@@ -232,8 +232,17 @@ Check off “Sensitive”, then click add variable. This is a great feature of T
 
 Once the plan has been created it’s time to apply.
 
+<img width="926" alt="Screenshot 2023-05-20 at 16 32 29" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/4413f1e3-ab91-461b-9ebf-10111cc001c9">
+
+<img width="863" alt="Screenshot 2023-05-20 at 16 33 59" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/a9cc1fc5-d6e5-47b3-afc5-65d250c37663">
+
 
 Test our infrastructure
+                                                              
+
+
+                                                              
+                                                          
 
 Navigate to theEC2 console and select “Load Balancers”. Select your load balancer and copy the public DNS name.
 
