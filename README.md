@@ -179,6 +179,12 @@ Enter a name for your organization and click on the “Create Organization” bu
 
 You will be prompted to invite team members to your organization. You can skip this step for now and click on the “Skip” button located at the bottom right corner of the page.
 
+<img width="1203" alt="Screenshot 2023-05-20 at 15 50 54" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/5818a81b-fce3-4e18-8cfe-1af018586ed3">
+
+<img width="1238" alt="Screenshot 2023-05-20 at 15 51 34" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/92d5002c-4c59-493a-adc0-40cbdd90c460">
+
+<img width="875" alt="Screenshot 2023-05-20 at 15 53 10" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/ea3f319d-3c13-4d7f-a735-f410c22a432b">
+
 You will now be taken to the Terraform Cloud workspace creation page. Click on the “Create a new workspace” button.
 
 
