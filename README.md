@@ -263,6 +263,13 @@ Refresh the page a few times to test that the load balancer is directing traffic
 
 Clean Up Environment
 use Terraform Cloud to destroy your resources. Go to the left panel in your Terraform Cloud > settings > destruction and deletion > queue destroy plan. you should see the plan for a terraform destroy. Confirm and apply the plan to destroy your resources.
+  
+
+<img width="1157" alt="Screenshot 2023-05-20 at 16 40 06" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/cdaadb34-70ba-42ac-9365-bf56a182d6fd">
+  
+<img width="631" alt="Screenshot 2023-05-20 at 16 40 22" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/cee773bb-c6e0-4f2a-b7ac-1cc7a73746e5">
+  
+<img width="902" alt="Screenshot 2023-05-20 at 16 41 19" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/c735db74-0d88-4655-a715-1cb71338b627">
 
 
 
