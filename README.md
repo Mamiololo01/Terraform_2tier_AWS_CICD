@@ -256,7 +256,7 @@ Navigate to theEC2 console and select “Load Balancers”. Select your load bal
 
 In the address bar of your web browser type in http://<PastePublicDNS>
 
-http://Project-alb-1047634366.us-east-1.elb.amazonaws.com
+<img width="1259" alt="Screenshot 2023-05-20 at 16 39 13" src="https://github.com/Mamiololo01/Terraform_2tier_AWS_CICD/assets/67044030/c8ece04a-64c4-4220-8ce2-976d6ffcf636">
 
 Refresh the page a few times to test that the load balancer is directing traffic successfully to your different web servers, to validate, you should see the IP addresses change on each refresh.
 
